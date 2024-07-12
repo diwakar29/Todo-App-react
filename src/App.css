@@ -1,0 +1,21 @@
+input{
+    display: inline;
+    width: 100%;
+    
+} 
+  
+.todo-container{
+   
+    max-width: 586px;
+    margin-left: 35%;
+}
+.items-container{
+    text-align: left;
+
+}
+.kg-row{  
+margin: 8px;
+}
+.kg-button{
+    min-width: 80px;
+}

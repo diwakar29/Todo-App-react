@@ -1,0 +1,10 @@
+.welcome{
+    font-size: 25px;
+    background-color: #020202;
+    color: #fffdfd;
+    margin-inline: 11px;
+    margin-right: 5px;
+    border-radius: 12px;
+    border: ridge;
+    font-weight: 800;
+}
